@@ -18,7 +18,7 @@ para ejecutar el programa se requiere de tener instalado cualquier version de py
 Para esta versión el AGP cumple con su funcion principal, registrar gastos y mostrarlos al usuario 
 -Registrar gastos: El programa le pide a el usuario el nombre, el monto, la fecha, y la categoria para guardando en sus gastos,cuando recibe cada uno de los valores hace una pequeña validación individual antes de ingresarlo a sus gastos 
 ## APRENDISAJES 
-_PYTHON
+### PYTHON
 - Funcionamiento de un dicionario y como moverse adentro de este 
 - Los dicionarios anidados son estructuras que sirven para guardar items con caracteristicas
 - Las Funciones no siempre tienen que devolver algo, pueden simplemente organizar como se realiza un proceso
@@ -29,7 +29,7 @@ _PYTHON
 - Uso de mach y case para validar muchas opciones de manera eficiente
 - Uso de la libreria sys y el metodo exit() para cerrar el programa  
 
-_BUENAS PRACTICAS 
+### BUENAS PRACTICAS 
 - Realizar un MVP para probar si una idea es util
 - Un README es importante para que alguien no tecnico entienda como funciona el proyecto 
 - Crear el archivo ".gitignore" para que git omita los archivos que no queremos que se suban
